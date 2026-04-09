@@ -1,4 +1,4 @@
-# Hi, I'm Daniel
+# Hi, I'm Hector
 
 🔭 Full-stack dev, backend-focused · 5+ years in production systems at scale  
 📍 Barranquilla, Colombia · Open to remote backend roles  
@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## Publications
-- [PARSEC: Reducing Cold Start in Serverless Computing](https://doi.org/10.1109/TSC.2025.3627934) — IEEE TSC, 2025
+- [PARSEC: Reducing Cold Start in Serverless Computing](https://www.computer.org/csdl/journal/sc/2025/06/11223693/2bgwWqFSuTm) — IEEE TSC, 2025
 - [CIEMS: Collaborative Industrial Emergency Management IS](https://doi.org/10.1007/978-3-031-32213-6_32) — Springer, 2023
 
 <picture>

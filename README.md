@@ -14,4 +14,4 @@
 - [PARSEC: Reducing Cold Start in Serverless Computing](https://doi.org/10.1109/TSC.2025.3627934) — IEEE TSC, 2025
 - [CIEMS: Collaborative Industrial Emergency Management IS](https://doi.org/10.1007/978-3-031-32213-6_32) — Springer, 2023
 
-![Stats](https://github-readme-stats.vercel.app/api?username=danielcatu&show_icons=true&hide_border=true&hide_title=true)
+![Streak](https://streak-stats.demolab.com?user=danielcatu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
